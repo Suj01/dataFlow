@@ -1,4 +1,4 @@
-import { Box, Button, HStack } from "@chakra-ui/react";
+import { Box, HStack } from "@chakra-ui/react";
 import "./App.css";
 
 import { AllRoutes } from "./routes/AllRoutes";
@@ -12,7 +12,7 @@ function App() {
         <Box boxShadow={"rgba(0, 0, 0, 0.1) 0px 1px 3px, rgba(0, 0, 0, 0.2) 0px 2px 6px"}>
           <Box display={"flex"} justifyContent={"space-between"} >
             <HStack>
-         {/* <Button>Summary</Button> */}
+ 
             </HStack>
             <HStack>
          
